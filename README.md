@@ -33,4 +33,4 @@
 |  |
 | ------- |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
-<!---LeetCode Topics End-->.
+<!---LeetCode Topics End-->
