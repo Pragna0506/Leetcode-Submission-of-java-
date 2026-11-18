@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0004-median-of-two-sorted-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0007-reverse-integer) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -39,6 +41,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0005-longest-palindromic-substring) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Manacher
 |  |
@@ -56,4 +59,8 @@
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
