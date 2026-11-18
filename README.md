@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0005-longest-palindromic-substring) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Dynamic Programming
@@ -51,4 +52,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0004-median-of-two-sorted-arrays) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
