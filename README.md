@@ -25,13 +25,20 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0005-longest-palindromic-substring) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0005-longest-palindromic-substring) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0005-longest-palindromic-substring) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
