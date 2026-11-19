@@ -20,6 +20,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0009-palindrome-number) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Recursion
 |  |
