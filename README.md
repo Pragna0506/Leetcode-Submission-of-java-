@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0010-regular-expression-matching) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0010-regular-expression-matching) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -44,6 +46,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0010-regular-expression-matching) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Manacher
