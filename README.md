@@ -48,6 +48,7 @@
 | [0010-regular-expression-matching](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0020-valid-parentheses) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -96,4 +97,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
