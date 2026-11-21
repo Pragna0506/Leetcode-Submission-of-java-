@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -47,6 +48,7 @@
 | [0011-container-with-most-water](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## String
 |  |
