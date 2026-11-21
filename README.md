@@ -14,11 +14,13 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Linked List
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -118,4 +121,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0020-valid-parentheses) |
+## Tree
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/3331-find-subtree-sizes-after-changes) |
+## Depth-First Search
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/3331-find-subtree-sizes-after-changes) |
 <!---LeetCode Topics End-->
