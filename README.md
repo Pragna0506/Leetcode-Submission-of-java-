@@ -20,6 +20,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Linked List
 |  |
@@ -64,6 +65,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -147,4 +149,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
