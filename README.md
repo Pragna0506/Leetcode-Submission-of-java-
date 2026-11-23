@@ -11,6 +11,7 @@
 | [0018-4sum](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0033-search-in-rotated-sorted-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0033-search-in-rotated-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
