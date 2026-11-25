@@ -18,6 +18,7 @@
 | [0040-combination-sum-ii](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0045-jump-game-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -90,6 +91,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0045-jump-game-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -122,6 +124,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0045-jump-game-ii) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Sorting
 |  |
