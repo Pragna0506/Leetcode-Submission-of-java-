@@ -16,6 +16,7 @@
 | [0035-search-insert-position](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0041-first-missing-positive) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -27,6 +28,7 @@
 | [0001-two-sum](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0041-first-missing-positive](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0041-first-missing-positive) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Linked List
 |  |
