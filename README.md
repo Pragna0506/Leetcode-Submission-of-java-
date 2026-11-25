@@ -45,6 +45,7 @@
 | [0002-add-two-numbers](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0043-multiply-strings) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Recursion
@@ -78,6 +79,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0043-multiply-strings) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -109,6 +111,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0043-multiply-strings) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Prefix Sum
 |  |
