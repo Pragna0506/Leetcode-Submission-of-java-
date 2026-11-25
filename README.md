@@ -17,6 +17,7 @@
 | [0039-combination-sum](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0042-trapping-rain-water) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -64,6 +65,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0042-trapping-rain-water) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## String
 |  |
@@ -85,6 +87,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0042-trapping-rain-water) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -137,6 +140,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0042-trapping-rain-water) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -177,4 +181,8 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/1352-product-of-the-last-k-numbers) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
