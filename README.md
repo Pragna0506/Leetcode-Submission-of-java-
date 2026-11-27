@@ -21,6 +21,7 @@
 | [0045-jump-game-ii](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0049-group-anagrams) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -33,6 +34,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0049-group-anagrams) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Linked List
 |  |
@@ -83,6 +85,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0049-group-anagrams) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -133,6 +136,7 @@
 | ------- |
 | [0018-4sum](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0049-group-anagrams) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Backtracking
