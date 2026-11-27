@@ -20,6 +20,7 @@
 | [0042-trapping-rain-water](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0047-permutations-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0047-permutations-ii) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Backtracking
@@ -140,6 +142,7 @@
 | [0039-combination-sum](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0047-permutations-ii) |
 ## Trie
 |  |
 | ------- |
