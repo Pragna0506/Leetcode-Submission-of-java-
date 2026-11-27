@@ -19,6 +19,7 @@
 | [0041-first-missing-positive](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0046-permutations) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -138,6 +139,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0046-permutations) |
 ## Trie
 |  |
 | ------- |
