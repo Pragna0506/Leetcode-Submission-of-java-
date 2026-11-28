@@ -24,6 +24,7 @@
 | [0049-group-anagrams](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0055-jump-game) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -100,6 +101,7 @@
 | [0042-trapping-rain-water](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0055-jump-game) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -134,6 +136,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0055-jump-game) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Sorting
 |  |
