@@ -25,6 +25,7 @@
 | [0051-n-queens](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0056-merge-intervals) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -144,6 +145,7 @@
 | [0018-4sum](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0056-merge-intervals) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Backtracking
@@ -214,4 +216,8 @@
 | ------- |
 | [0051-n-queens](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0052-n-queens-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-java-/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
